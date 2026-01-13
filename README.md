@@ -1,10 +1,10 @@
 # 📊 HR Attrition Analytics – Executive Summary
-
+![HR Analytics](assets/HRDashboard.png)
 ## 🏢 Project Overview
 This project analyzes **workforce attrition** to identify high-risk employee groups, understand workforce composition, and provide actionable insights for retention strategies. The dashboard was built using **Power BI**, transforming raw HR data into trends, KPIs, and recommendations for strategic decision-making.
 
 ---
-
+![HR Analytics](assets/HRDashboard.gif)
 ## 📌 Workforce Snapshot
 
 | Metric | Value |
